@@ -1,0 +1,28 @@
+{
+  "ConfigVersion": 6,
+  "ID": 2,
+  "ClassName": "ExpansionQuestNPCElias",
+  "Position": [
+    0,
+    0,
+    0
+  ],
+  "Orientation": [
+    -10,
+    0,
+    0
+  ],
+  "NPCName": "Steve",
+    "DefaultNPCText": "What do you want? I am busy...",
+    "Waypoints": [],
+    "NPCEmoteID": 14,
+    "NPCEmoteIsStatic": 1,
+    "NPCLoadoutFile": "AlpineLoadout",
+    "NPCInteractionEmoteID": 1,
+    "NPCQuestCancelEmoteID": 60,
+    "NPCQuestStartEmoteID": 58,
+    "NPCQuestCompleteEmoteID": 39,
+    "NPCFaction": "InvincibleObservers",
+    "NPCType": 2,
+    "Active": 1
+}

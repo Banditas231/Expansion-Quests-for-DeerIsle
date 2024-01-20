@@ -1,0 +1,44 @@
+{
+  "ConfigVersion": 6,
+  "ID": 1,
+  "ClassName": "ExpansionQuestNPCAIDenis",
+  "Position": [
+    7515.96,
+    87.6825,
+    4633.53
+  ],
+  "Orientation": [
+    102.253,
+    0,
+    0
+  ],
+  "NPCName": "Peter",
+  "DefaultNPCText": "Hmm?",
+  "Waypoints": [
+    [
+      7524.50,
+      1.0,
+      4629.00
+    ],
+    [
+      7535.50,
+      1.0,
+      4638.50
+    ],
+    [
+      7555.50,
+      1.0,
+      4642.00
+    ]
+  ],
+  "NPCEmoteID": 46,
+  "NPCEmoteIsStatic": 0,
+  "NPCLoadoutFile": "MulticamBlackLoadout",
+  "NPCInteractionEmoteID": 1,
+  "NPCQuestCancelEmoteID": 10,
+  "NPCQuestStartEmoteID": 58,
+  "NPCQuestCompleteEmoteID": 39,
+  "NPCFaction": "InvincibleObservers",
+  "NPCType": 2,
+  "Active": 1
+}

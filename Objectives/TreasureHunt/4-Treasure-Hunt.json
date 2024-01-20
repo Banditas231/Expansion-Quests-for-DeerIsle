@@ -1,0 +1,124 @@
+{
+    "ConfigVersion": 26,
+    "ID": 1,
+    "ObjectiveType": 6,
+    "ObjectiveText": "Find the location of the treasure",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ShowDistance": 1,
+    "ContainerName": "ExpansionQuestSeaChest",
+    "DigInStash": 1,
+    "MarkerName": "???",
+    "MarkerVisibility": 4,
+    "Positions": [
+        [
+            9237.72,
+            95.3078,
+            3826.06
+        ],
+        [
+            9149.98,
+            8.30406,
+            4238.39
+        ],
+        [
+            9939.92,
+            43.0676,
+            3640.15
+        ]
+    ],
+    "Loot": [
+        {
+            "Name": "SodaCan_Spite",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Lunchmeat",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Pate",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SodaCan_Cola",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SodaCan_Pipsi",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "PorkCan",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "SodaCan_Fronta",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Marmalade",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "Pajka",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        },
+        {
+            "Name": "PeachesCan",
+            "Attachments": [],
+            "Chance": 0.30000001192092898,
+            "QuantityPercent": -1,
+            "Max": -1,
+            "Min": 0,
+            "Variants": []
+        }
+    ],
+    "LootItemsAmount": 10,
+    "MaxDistance": 10.0
+}

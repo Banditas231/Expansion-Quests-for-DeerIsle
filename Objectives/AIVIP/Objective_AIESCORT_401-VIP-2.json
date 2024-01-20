@@ -1,0 +1,20 @@
+{
+    "ConfigVersion": 26,
+    "ID": 2,
+    "ObjectiveType": 9,
+    "ObjectiveText": "Take the weirdo home to rest.",
+    "TimeLimit": -1,
+    "Active": 1,
+    "Position": [
+        10340.3,
+        8.05041,
+        4405.47
+    ],
+    "MaxDistance": 20.0,
+    "MarkerName": "Escort VIP",
+    "ShowDistance": 1,
+    "CanLootAI": 0,
+    "NPCLoadoutFile": "PoliceLoadout",
+    "NPCClassName": "",
+    "NPCName": "Survivor"
+}

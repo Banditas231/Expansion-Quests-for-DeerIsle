@@ -11,3 +11,4 @@ I hope it will be useful to someone. For DeerIsle map
 # Here only working quest for ExpansionQuestNPCAIDenis !
 # ExpansionQuestBoardLarge Not working at the moment (no clue where I made mistake , when I get fix I post it)
 
+# Not using DeerIsle, so my quests not updated, but it should be not hard to fix it.
